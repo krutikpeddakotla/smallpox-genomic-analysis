@@ -1,0 +1,198 @@
+ Accession,Begin,End,Chromosome,Orientation,Name,Symbol,Gene ID,Gene Type,Transcripts accession,Protein accession,Protein length,Locus tag
+NC_001611.1,338,799,,minus,hypothetical protein,D1L,1486397,protein-coding,,NP_042045.1,153,VARVgp001
+NC_001611.1,1810,2232,,plus,epidermal growth factor-like protein (EGF-like protein),D1L,1486396,protein-coding,,NP_042046.1,140,VARVgp002
+NC_001611.1,2394,3386,,minus,hypothetical protein,D3L,1486398,protein-coding,,NP_042047.1,330,VARVgp003
+NC_001611.1,3887,4615,,plus,zinc finger-like protein,D4R,1486399,protein-coding,,NP_042048.1,242,VARVgp004
+NC_001611.1,4764,5144,,minus,IL-18 binding protein,D5L,1486400,protein-coding,,NP_042049.1,126,VARVgp005
+NC_001611.1,5201,6559,,minus,hypothetical protein,D6L,1486401,protein-coding,,NP_042050.1,452,VARVgp006
+NC_001611.1,7488,7949,,minus,hypothetical protein,D7L,1486402,protein-coding,,NP_042051.1,153,VARVgp007
+NC_001611.1,8602,9054,,minus,host-range protein,D8L,1486403,protein-coding,,NP_042052.1,150,VARVgp008
+NC_001611.1,9284,9754,,minus,hypothetical protein,D9L,1486404,protein-coding,,NP_042053.1,156,VARVgp009
+NC_001611.1,10110,10514,,minus,hypothetical protein,D10L,1486390,protein-coding,,NP_042054.1,134,VARVgp010
+NC_001611.1,10585,11535,,minus,hypothetical protein,D11L,1486391,protein-coding,,NP_042055.1,316,VARVgp011
+NC_001611.1,11600,12391,,minus,secreted complement-binding protein,D12L,1486392,protein-coding,,NP_042056.1,263,VARVgp012
+NC_001611.1,12514,13119,,minus,hypothetical protein,D13L,1486393,protein-coding,,NP_042057.1,201,VARVgp013
+NC_001611.1,13262,13501,,minus,hypothetical protein,D13_5L,1486394,protein-coding,,NP_042058.1,79,VARVgp014
+NC_001611.1,13962,14606,,minus,hypothetical protein,D14L,1486395,protein-coding,,NP_042059.1,214,VARVgp015
+NC_001611.1,14655,15008,,minus,putative virulence factor,P1L,1486481,protein-coding,,NP_042060.1,117,VARVgp016
+NC_001611.1,15135,15668,,minus,putative alpha aminitin-sensitive protein,P2L,1486482,protein-coding,,NP_042061.1,177,VARVgp017
+NC_001611.1,15710,17050,,minus,ankyin-like protein,O1L,1486478,protein-coding,,NP_042062.1,446,VARVgp018
+NC_001611.1,17095,17757,,minus,hypothetical protein,O2L,1486479,protein-coding,,NP_042063.1,220,VARVgp019
+NC_001611.1,18008,18220,,minus,hypothetical protein,O3L,1486480,protein-coding,,NP_042064.1,70,VARVgp020
+NC_001611.1,18538,18738,,minus,hypothetical protein,C1L,1486576,protein-coding,,NP_042065.1,66,VARVgp021
+NC_001611.1,18912,20033,,minus,serine protease inhibitor-like protein,C2L,1486579,protein-coding,,NP_042066.1,373,VARVgp022
+NC_001611.1,20084,20350,,minus,interferon resistance protein,C3L,1486580,protein-coding,,NP_042067.1,88,VARVgp023
+NC_001611.1,20616,21065,,plus,unchracterized protein,C4R,1486384,protein-coding,,NP_042068.1,149,VARVgp024
+NC_001611.1,21119,21874,,minus,hypothetical protein,C5L,1486385,protein-coding,,NP_042069.1,251,VARVgp025
+NC_001611.1,21874,22317,,minus,dUTPase,C6L,1486386,protein-coding,,NP_042070.1,147,VARVgp026
+NC_001611.1,22403,22942,,minus,hypothetical protein,C7L,1486387,protein-coding,,NP_042071.1,179,VARVgp027
+NC_001611.1,23789,24748,,minus,Ribonucleoside-diphosphate reductase small chain,C8L,1486388,protein-coding,,NP_042072.2,319,VARVgp028
+NC_001611.1,24780,25826,,minus,36 kDa major membrane protein,C9L,1486389,protein-coding,,NP_042073.2,322,VARVgp029
+NC_001611.1,25783,26001,,minus,hypothetical protein,C10L,1486566,protein-coding,,NP_042074.1,72,VARVgp030
+NC_001611.1,26018,26257,,minus,hypothetical protein,C11L,1486567,protein-coding,,NP_042075.1,79,VARVgp031
+NC_001611.1,26407,26604,,minus,hypothetical protein,C12L,1486568,protein-coding,,NP_042076.1,65,VARVgp032
+NC_001611.1,26672,27310,,minus,S-S bond formation pathway protein,C13L,1486569,protein-coding,,NP_042077.1,212,VARVgp033
+NC_001611.1,27297,28616,,minus,Ser/Thr kinase,C14L,1486570,protein-coding,,NP_042078.1,439,VARVgp034
+NC_001611.1,28639,29703,,minus,hypothetical protein,C15L,1486571,protein-coding,,NP_042079.1,354,VARVgp035
+NC_001611.1,29746,31653,,minus,EEV maturation protein,C16L,1486572,protein-coding,,NP_042080.1,635,VARVgp036
+NC_001611.1,31694,32812,,minus,palmytilated EEV membrane glycoprotein,C17L,1486573,protein-coding,,NP_042081.1,372,VARVgp037
+NC_001611.1,32831,33052,,minus,hypothetical protein,C18L,1486574,protein-coding,,NP_042082.1,73,VARVgp038
+NC_001611.1,33321,33806,,minus,hypothetical protein,C19L,1486575,protein-coding,,NP_042083.1,161,VARVgp039
+NC_001611.1,33803,34498,,minus,hypothetical protein,C20L,1486577,protein-coding,,NP_042084.1,231,VARVgp040
+NC_001611.1,34561,34866,,plus,DNA-binding virion core protein,C21R,1486578,protein-coding,,NP_042085.1,101,VARVgp041
+NC_001611.1,34863,36302,,minus,poly(A) polymerase large subunit,E1L,1486407,protein-coding,,NP_042086.1,479,VARVgp042
+NC_001611.1,36299,38512,,minus,hypothetical protein,E2L,1486408,protein-coding,,NP_042087.1,737,VARVgp043
+NC_001611.1,38632,39204,,minus,double-strand RNA-binding protein,E3L,1486409,protein-coding,,NP_042088.1,190,VARVgp044
+NC_001611.1,39259,40038,,minus,RNA polymerase subunit,E4L,1486410,protein-coding,,NP_042089.1,259,VARVgp045
+NC_001611.1,40087,41112,,plus,hypothetical protein,E5R,1486411,protein-coding,,NP_042090.1,341,VARVgp046
+NC_001611.1,41230,42933,,plus,hypothetical protein,E6R,1486412,protein-coding,,NP_042091.1,567,VARVgp047
+NC_001611.1,43319,43501,,plus,hypothetical protein,E7R,1486413,protein-coding,,NP_042092.1,60,VARVgp048
+NC_001611.1,43626,44447,,plus,hypothetical protein,E8R,1486414,protein-coding,,NP_042093.1,273,VARVgp049
+NC_001611.1,44453,47470,,minus,DNA polymerase,E9L,1486415,protein-coding,,NP_042094.1,1005,VARVgp050
+NC_001611.1,47502,47789,,plus,sulfhydryl oxidase,E10R,1486405,protein-coding,,NP_042095.1,95,VARVgp051
+NC_001611.1,47784,48173,,minus,putative virion core protein,E11L,1486406,protein-coding,,NP_042096.1,129,VARVgp052
+NC_001611.1,48160,50160,,minus,hypothetical protein,Q1L,1486483,protein-coding,,NP_042097.1,666,VARVgp053
+NC_001611.1,50207,50533,,minus,glutaredoxin,Q2L,1486484,protein-coding,,NP_042098.1,108,VARVgp054
+NC_001611.1,50679,51617,,minus,putative DNA-binding virion core protein,K1L,1486456,protein-coding,,NP_042099.1,312,VARVgp055
+NC_001611.1,51624,51845,,minus,IMV membrane protein,K2L,1486457,protein-coding,,NP_042100.1,73,VARVgp056
+NC_001611.1,51846,52655,,minus,DNA-binding phosphoprotein,K3L,1486458,protein-coding,,NP_042101.1,269,VARVgp057
+NC_001611.1,52738,55053,,minus,ribonucleotide reductase,K4L,1486459,protein-coding,,NP_042102.1,771,VARVgp058
+NC_001611.1,55081,55320,,minus,hypothetical protein,K5L,1486460,protein-coding,,NP_042103.1,79,VARVgp059
+NC_001611.1,55339,56487,,minus,hypothetical protein,K6L,1486461,protein-coding,,NP_042104.1,382,VARVgp060
+NC_001611.1,56480,57751,,minus,hypothetical protein,K7L,1486462,protein-coding,,NP_042105.1,423,VARVgp061
+NC_001611.1,57757,59787,,plus,RNA helicase NPH-II,K8R,1486463,protein-coding,,NP_042106.1,676,VARVgp062
+NC_001611.1,59791,61566,,minus,putative metalloprotease,H1L,1486429,protein-coding,,NP_042107.1,591,VARVgp063
+NC_001611.1,61563,61898,,minus,hypothetical protein,H2L,1486430,protein-coding,,NP_042108.1,111,VARVgp064
+NC_001611.1,61892,62554,,plus,transcriptional elongation factor,H3R,1486431,protein-coding,,NP_042109.1,220,VARVgp065
+NC_001611.1,62524,62898,,minus,glutaredoxin-like protein,H4L,1486432,protein-coding,,NP_042110.1,124,VARVgp066
+NC_001611.1,62901,64205,,plus,hypothetical protein,H5R,1486433,protein-coding,,NP_042111.1,434,VARVgp067
+NC_001611.1,64213,64404,,plus,RNA polymerase,H5_5R,1486434,protein-coding,,NP_042112.1,63,VARVgp068
+NC_001611.1,64406,64903,,plus,hypothetical protein,H6R,1486435,protein-coding,,NP_042113.1,165,VARVgp069
+NC_001611.1,64868,65983,,minus,putative virion core protein,H7L,1486436,protein-coding,,NP_042114.1,371,VARVgp070
+NC_001611.1,66014,66796,,plus,late transcription factor VLTF-1,H8R,1486437,protein-coding,,NP_042115.1,260,VARVgp071
+NC_001611.1,66816,67838,,plus,poxvirus myristoylprotein,H9R,1486438,protein-coding,,NP_042116.1,340,VARVgp072
+NC_001611.1,67839,68591,,plus,hypothetical protein,M1R,1486470,protein-coding,,NP_042117.1,250,VARVgp073
+NC_001611.1,68623,68886,,plus,hypothetical protein,M2R,1486471,protein-coding,,NP_042118.1,87,VARVgp074
+NC_001611.1,68876,69925,,minus,hypothetical protein,M3L,1486472,protein-coding,,NP_042119.1,349,VARVgp075
+NC_001611.1,69950,70705,,plus,DNA-binding virion core protein,M4R,1486473,protein-coding,,NP_042120.1,251,VARVgp076
+NC_001611.1,70715,71101,,plus,hypothetical protein,M5R,1486474,protein-coding,,NP_042121.1,128,VARVgp077
+NC_001611.1,71058,71537,,plus,hypothetical protein,L1R,1486464,protein-coding,,NP_042122.1,159,VARVgp078
+NC_001611.1,71534,72067,,plus,hypothetical protein,L2R,1486465,protein-coding,,NP_042123.1,177,VARVgp079
+NC_001611.1,72133,73134,,plus,poly(A) polymerase small subunit,L3R,1486466,protein-coding,,NP_042124.1,333,VARVgp080
+NC_001611.1,73049,73606,,plus,hypothetical protein,L4R,1486467,protein-coding,,NP_042125.1,185,VARVgp081
+NC_001611.1,73657,74058,,minus,hypothetical protein,L5L,1486468,protein-coding,,NP_042126.1,133,VARVgp082
+NC_001611.1,74165,78025,,plus,hypothetical protein,L6R,1486469,protein-coding,,NP_042127.1,1286,VARVgp083
+NC_001611.1,78022,78537,,minus,hypothetical protein,I1L,1486439,protein-coding,,NP_042128.1,171,VARVgp084
+NC_001611.1,78551,79120,,plus,putative viral membrane protein,I2R,1486440,protein-coding,,NP_042129.1,189,VARVgp085
+NC_001611.1,79123,80100,,minus,hypothetical protein,I3L,1486441,protein-coding,,NP_042130.1,325,VARVgp086
+NC_001611.1,80101,82488,,minus,hypothetical protein,I4L,1486442,protein-coding,,NP_042131.1,795,VARVgp087
+NC_001611.1,82674,83339,,plus,late transcription factor VLTF-4,I5R,1486443,protein-coding,,NP_042132.1,221,VARVgp088
+NC_001611.1,83340,84284,,plus,DNA topoisomerase type I,I6R,1486444,protein-coding,,NP_042133.1,314,VARVgp089
+NC_001611.1,84321,84761,,plus,hypothetical protein,I7R,1486445,protein-coding,,NP_042134.1,146,VARVgp090
+NC_001611.1,84805,87339,,plus,hypothetical protein,F1R,1486417,protein-coding,,NP_042135.1,844,VARVgp091
+NC_001611.1,87298,87738,,minus,hypothetical protein,F2L,1486418,protein-coding,,NP_042136.1,146,VARVgp092
+NC_001611.1,87731,88444,,plus,hypothetical protein,F3R,1486419,protein-coding,,NP_042137.1,237,VARVgp093
+NC_001611.1,88444,89100,,plus,hypothetical protein,F4R,1486420,protein-coding,,NP_042138.1,218,VARVgp094
+NC_001611.1,89132,91489,,plus,hypothetical protein,F5R,1486421,protein-coding,,NP_042139.1,785,VARVgp095
+NC_001611.1,91530,93443,,plus,hypothetical protein,F6R,1486422,protein-coding,,NP_042140.1,637,VARVgp096
+NC_001611.1,93470,93955,,plus,hypothetical protein,F7R,1486423,protein-coding,,NP_042141.1,161,VARVgp097
+NC_001611.1,93918,94832,,minus,hypothetical protein,F8L,1486424,protein-coding,,NP_042142.1,304,VARVgp098
+NC_001611.1,94874,95515,,plus,hypothetical protein,F9R,1486425,protein-coding,,NP_042143.1,213,VARVgp099
+NC_001611.1,95512,96258,,plus,hypothetical protein,F10R,1486416,protein-coding,,NP_042144.1,248,VARVgp100
+NC_001611.1,96259,98154,,minus,hypothetical protein,N1L,1486475,protein-coding,,NP_042145.1,631,VARVgp101
+NC_001611.1,98188,99051,,minus,hypothetical protein,N2L,1486476,protein-coding,,NP_042146.1,287,VARVgp102
+NC_001611.1,99082,100737,,minus,hypothetical protein,N3L,1486477,protein-coding,,NP_042147.1,551,VARVgp103
+NC_001611.1,100761,101213,,minus,late transcription factor VLTF-2,A1L,1486495,protein-coding,,NP_042148.1,150,VARVgp104
+NC_001611.1,101234,101908,,minus,late transcription factor VLTF-3,A2L,1486506,protein-coding,,NP_042149.1,224,VARVgp105
+NC_001611.1,101905,102135,,minus,hypothetical protein,A2_5L,1486507,protein-coding,,NP_042150.1,76,VARVgp106
+NC_001611.1,102150,104084,,minus,hypothetical protein,A3L,1486519,protein-coding,,NP_042151.1,644,VARVgp107
+NC_001611.1,104137,104952,,minus,hypothetical protein,A4L,1486531,protein-coding,,NP_042152.1,271,VARVgp108
+NC_001611.1,104990,105484,,plus,hypothetical protein,A5R,1486535,protein-coding,,NP_042153.1,164,VARVgp109
+NC_001611.1,105481,106599,,minus,hypothetical protein,A6L,1486536,protein-coding,,NP_042154.1,372,VARVgp110
+NC_001611.1,106623,108755,,minus,hypothetical protein,A7L,1486537,protein-coding,,NP_042155.1,710,VARVgp111
+NC_001611.1,108809,109675,,plus,hypothetical protein,A8R,1486538,protein-coding,,NP_042156.1,288,VARVgp112
+NC_001611.1,109672,109959,,minus,hypothetical protein,A9L,1486539,protein-coding,,NP_042157.1,95,VARVgp113
+NC_001611.1,109960,112638,,minus,hypothetical protein,A10L,1486485,protein-coding,,NP_042158.1,892,VARVgp114
+NC_001611.1,112653,113612,,plus,hypothetical protein,A11R,1486486,protein-coding,,NP_042159.1,319,VARVgp115
+NC_001611.1,113614,114183,,minus,hypothetical protein,A12L,1486487,protein-coding,,NP_042160.1,189,VARVgp116
+NC_001611.1,114207,114413,,minus,hypothetical protein,A13L,1486488,protein-coding,,NP_042161.1,68,VARVgp117
+NC_001611.1,114521,114793,,minus,hypothetical protein,A14L,1486489,protein-coding,,NP_042162.1,90,VARVgp118
+NC_001611.1,114961,115245,,minus,hypothetical protein,A15L,1486490,protein-coding,,NP_042163.1,94,VARVgp119
+NC_001611.1,115229,116362,,minus,hypothetical protein,A16L,1486491,protein-coding,,NP_042164.1,377,VARVgp120
+NC_001611.1,116365,116976,,minus,hypothetical protein,A17L,1486492,protein-coding,,NP_042165.1,203,VARVgp121
+NC_001611.1,116991,118472,,plus,hypothetical protein,A18R,1486493,protein-coding,,NP_042166.1,493,VARVgp122
+NC_001611.1,118453,118683,,minus,hypothetical protein,A19L,1486494,protein-coding,,NP_042167.1,76,VARVgp123
+NC_001611.1,118684,119037,,minus,IMV membrane protein,A20L,1486496,protein-coding,,NP_042168.1,117,VARVgp124
+NC_001611.1,119036,120316,,plus,hypothetical protein,A21R,1486497,protein-coding,,NP_042169.1,426,VARVgp125
+NC_001611.1,120246,120809,,plus,hypothetical protein,A22R,1486498,protein-coding,,NP_042170.1,187,VARVgp126
+NC_001611.1,120829,121977,,plus,hypothetical protein,A23R,1486499,protein-coding,,NP_042171.1,382,VARVgp127
+NC_001611.1,121974,125468,,plus,hypothetical protein,A24R,1486500,protein-coding,,NP_042172.1,1164,VARVgp128
+NC_001611.1,125736,126026,,minus,hypothetical protein,A25L,1486501,protein-coding,,NP_042173.1,96,VARVgp129
+NC_001611.1,126069,126266,,minus,A-type inclusion body protein,A26L,1486502,protein-coding,,NP_042174.1,65,VARVgp130
+NC_001611.1,126418,127002,,minus,hypothetical protein,A27L,1486503,protein-coding,,NP_042175.1,194,VARVgp131
+NC_001611.1,127070,129178,,minus,hypothetical protein,A28L,1486504,protein-coding,,NP_042176.1,702,VARVgp132
+NC_001611.1,129223,130719,,minus,hypothetical protein,A29L,1486505,protein-coding,,NP_042177.1,498,VARVgp133
+NC_001611.1,130770,131102,,minus,hypothetical protein,A30L,1486508,protein-coding,,NP_042178.1,110,VARVgp134
+NC_001611.1,131103,131543,,minus,hypothetical protein,A31L,1486509,protein-coding,,NP_042179.1,146,VARVgp135
+NC_001611.1,131544,132461,,minus,hypothetical protein,A32L,1486510,protein-coding,,NP_042180.1,305,VARVgp136
+NC_001611.1,132424,132657,,minus,hypothetical protein,A33L,1486511,protein-coding,,NP_042181.1,77,VARVgp137
+NC_001611.1,132817,133239,,plus,hypothetical protein,A34R,1486512,protein-coding,,NP_042182.1,140,VARVgp138
+NC_001611.1,133206,134018,,minus,hypothetical protein,A35L,1486513,protein-coding,,NP_042183.1,270,VARVgp139
+NC_001611.1,134136,134690,,plus,hypothetical protein,A36R,1486514,protein-coding,,NP_042184.1,184,VARVgp140
+NC_001611.1,134714,135220,,plus,IEV and EEV membrane glycoprotein,A37R,1486515,protein-coding,,NP_042185.1,168,VARVgp141
+NC_001611.1,135262,135444,,plus,hypothetical protein,A38R,1486516,protein-coding,,NP_042186.1,60,VARVgp142
+NC_001611.1,135856,136506,,plus,hypothetical protein,A39R,1486517,protein-coding,,NP_042187.1,216,VARVgp143
+NC_001611.1,136427,136660,,minus,hypothetical protein,A39_5L,1486518,protein-coding,,NP_042188.1,77,VARVgp144
+NC_001611.1,136694,136900,,plus,hypothetical protein,A40R,1486520,protein-coding,,NP_042189.1,68,VARVgp145
+NC_001611.1,137426,137614,,plus,hypothetical protein,A40_5R,1486521,protein-coding,,NP_042190.1,62,VARVgp146
+NC_001611.1,137611,138444,,minus,hypothetical protein,A41L,1486522,protein-coding,,NP_042191.1,277,VARVgp147
+NC_001611.1,138460,138684,,plus,semaphorin-like protein,A42R,1486523,protein-coding,,NP_042192.1,74,VARVgp148
+NC_001611.1,138883,139251,,plus,hypothetical protein,A43R,1486524,protein-coding,,NP_042193.1,122,VARVgp149
+NC_001611.1,139238,139657,,plus,semaphorin-like protein,A44R,1486525,protein-coding,,NP_042194.1,139,VARVgp150
+NC_001611.1,139684,139869,,plus,hypothetical protein,A45R,1486526,protein-coding,,NP_042195.1,61,VARVgp151
+NC_001611.1,140262,140918,,minus,hypothetical protein,A46L,1486527,protein-coding,,NP_042196.1,218,VARVgp152
+NC_001611.1,141097,141498,,plus,hypothetical protein,A47R,1486528,protein-coding,,NP_042197.1,133,VARVgp153
+NC_001611.1,141536,142123,,plus,hypothetical protein,A48R,1486529,protein-coding,,NP_042198.1,195,VARVgp154
+NC_001611.1,142502,143134,,minus,hypothetical protein,A49L,1486530,protein-coding,,NP_042199.1,210,VARVgp155
+NC_001611.1,143303,143488,,minus,hypothetical protein,A50L,1486532,protein-coding,,NP_042200.1,61,VARVgp156
+NC_001611.1,143538,143915,,plus,hypothetical protein,A51R,1486533,protein-coding,,NP_042201.1,125,VARVgp157
+NC_001611.1,143905,144627,,plus,hypothetical protein,A52R,1486534,protein-coding,,NP_042202.1,240,VARVgp158
+NC_001611.1,144712,145446,,minus,hypothetical protein,J1L,1486447,protein-coding,,NP_042203.1,244,VARVgp159
+NC_001611.1,145544,146161,,plus,hypothetical protein,J2R,1486448,protein-coding,,NP_042204.1,205,VARVgp160
+NC_001611.1,146211,146699,,plus,hypothetical protein,J3R,1486449,protein-coding,,NP_042205.1,162,VARVgp161
+NC_001611.1,146731,148389,,plus,hypothetical protein,J4R,1486450,protein-coding,,NP_042206.1,552,VARVgp162
+NC_001611.1,148442,149446,,plus,hypothetical protein,J5R,1486451,protein-coding,,NP_042207.1,334,VARVgp163
+NC_001611.1,149682,149897,,plus,hypothetical protein,J6R,1486452,protein-coding,,NP_042208.1,71,VARVgp164
+NC_001611.1,150173,150388,,plus,hypothetical protein,J7R,1486453,protein-coding,,NP_042209.1,71,VARVgp165
+NC_001611.1,150404,150922,,plus,hypothetical protein,J8R,1486454,protein-coding,,NP_042210.1,172,VARVgp166
+NC_001611.1,151002,151943,,plus,hypothetical protein,J9R,1486455,protein-coding,,NP_042211.1,313,VARVgp167
+NC_001611.1,152087,152542,,plus,hypothetical protein,J10R,1486446,protein-coding,,NP_042212.1,151,VARVgp168
+NC_001611.1,152700,153602,,plus,hypothetical protein,B1R,1486550,protein-coding,,NP_042213.1,300,VARVgp169
+NC_001611.1,154016,154216,,minus,hypothetical protein,B2L,1486558,protein-coding,,NP_042214.1,66,VARVgp170
+NC_001611.1,154162,154359,,minus,hypothetical protein,B3L,1486559,protein-coding,,NP_042215.1,65,VARVgp171
+NC_001611.1,154726,154983,,minus,hypothetical protein,B4L,1486560,protein-coding,,NP_042216.1,85,VARVgp172
+NC_001611.1,154835,155026,,minus,hypothetical protein,B5L,1486561,protein-coding,,NP_042217.1,63,VARVgp173
+NC_001611.1,155404,157080,,plus,hypothetical protein,B6R,1486562,protein-coding,,NP_042218.1,558,VARVgp174
+NC_001611.1,157183,158136,,plus,EEV membrane glycoprotein,B7R,1486563,protein-coding,,NP_042219.1,317,VARVgp175
+NC_001611.1,158541,158711,,plus,hypothetical protein,B8R,1486564,protein-coding,,NP_042220.1,56,VARVgp176
+NC_001611.1,159371,160171,,plus,hypothetical protein,B9R,1486565,protein-coding,,NP_042221.1,266,VARVgp177
+NC_001611.1,160887,161180,,plus,hypothetical protein,B10R,1486540,protein-coding,,NP_042222.1,97,VARVgp178
+NC_001611.1,161196,161393,,plus,hypothetical protein,B11R,1486541,protein-coding,,NP_042223.1,65,VARVgp179
+NC_001611.1,161648,162052,,plus,hypothetical protein,B12R,1486542,protein-coding,,NP_042224.1,134,VARVgp180
+NC_001611.1,161949,162983,,plus,hypothetical protein,B13R,1486543,protein-coding,,NP_042225.1,344,VARVgp181
+NC_001611.1,163090,163539,,plus,hypothetical protein,B14R,1486544,protein-coding,,NP_042226.1,149,VARVgp182
+NC_001611.1,163778,163969,,plus,hypothetical protein,B15R,1486545,protein-coding,,NP_042227.1,63,VARVgp183
+NC_001611.1,163949,164209,,minus,hypothetical protein,B16L,1486546,protein-coding,,NP_042228.1,86,VARVgp184
+NC_001611.1,164266,164475,,plus,hypothetical protein,B17R,1486547,protein-coding,,NP_042229.1,69,VARVgp185
+NC_001611.1,164610,165632,,minus,hypothetical protein,B18L,1486548,protein-coding,,NP_042230.1,340,VARVgp186
+NC_001611.1,165773,167497,,plus,hypothetical protein,B19R,1486549,protein-coding,,NP_042231.1,574,VARVgp187
+NC_001611.1,167564,168628,,plus,hypothetical protein,B20R,1486551,protein-coding,,NP_042232.1,354,VARVgp188
+NC_001611.1,168697,171060,,plus,hypothetical protein,B21R,1486552,protein-coding,,NP_042233.1,787,VARVgp189
+NC_001611.1,171358,171570,,plus,hypothetical protein,B22R,1486553,protein-coding,,NP_042234.1,70,VARVgp190
+NC_001611.1,171552,171803,,plus,hypothetical protein,B23R,1486554,protein-coding,,NP_042235.1,83,VARVgp191
+NC_001611.1,171982,172248,,plus,hypothetical protein,B24R,1486555,protein-coding,,NP_042236.1,88,VARVgp192
+NC_001611.1,172245,173363,,plus,hypothetical protein,B25R,1486556,protein-coding,,NP_042237.1,372,VARVgp193
+NC_001611.1,174369,180059,,plus,hypothetical protein,B26R,1486557,protein-coding,,NP_042238.1,1896,VARVgp194
+NC_001611.1,180713,182470,,plus,hypothetical protein,G3R,1486426,protein-coding,,NP_042239.1,585,VARVgp195
+NC_001611.1,182552,183601,,plus,hypothetical protein,G4R,1486427,protein-coding,,NP_042240.1,349,VARVgp196
+NC_001611.1,183727,184488,,plus,chemokine binding protein,G5R,1486428,protein-coding,,NP_042241.1,253,VARVgp197
