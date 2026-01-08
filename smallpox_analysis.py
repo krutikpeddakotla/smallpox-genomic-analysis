@@ -4,12 +4,14 @@ import matplotlib.pyplot as plt
 # Use Pandas to analyze the organizational structure of the Variola virus and
 # identify the genes responsible for its extreme virulence compared to other viruses.
 
-df = pd.read_csv("output.csv")
+df = pd.read_csv("ncbi_dataset.csv")
 print(df.to_string())
-#print(df.iloc[11])
+print(df.iloc[11])
 
-#df = pd.read_csv("output.csv", index_col="Symbol")
-#print(df.loc["D12L"])
+df = pd.read_csv("ncbi_dataset", index_col="Symbol")
+print(df.loc["D12L"])
+
+df = pd.read_csv("ncbi_dataset.csv")
 
 # Data Cleanup 
 df["Gene_Size"] = df["End"] - df["Begin"]
@@ -53,3 +55,4 @@ plt.legend()
 plt.tight_layout()
 
 plt.show()
+
